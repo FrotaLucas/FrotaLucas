@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning C# and .DotNet...<br>🎯 Goals:  I want to be a fullstack develoer<br>🎲 Fun fact: I love skating on my free time</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning C# and .DotNet<br>🎯 Goals:  I want to be a fullstack develoer<br>🎲 Fun fact: I love skating on my free time</p>
 
 ###
 
