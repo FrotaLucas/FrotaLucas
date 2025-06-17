@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm diving deeper into .NET and Angular <br>🎯 Goals:  Develop technology that inspires people and drives positiv change in the society<br>🎲 Fun fact: I love skating on my free time</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm diving deeper into .NET and Angular <br>🎯 Goals:  Develop technology that inspires people and drive positiv change in the society<br>🎲 Fun fact: I love skating on my free time</p>
 
 ###
 
