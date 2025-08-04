@@ -5,9 +5,10 @@
 <p align="left">Creative. Spontaneous. Proactive.</p>
 <p> That’s me in three commits. </p>
 
-  I’m a Software Developer with 3+ years of experience battling legacy .NET dragons and building Angular apps that actually make users smile (on purpose). I believe code isn't just about algorithms. it's about empowering people, automating the boring stuff, and building tools that make life a little less Ctrl+C/Ctrl+V.
+<p> I’m a Software Developer with 3+ years of experience battling legacy .NET dragons and building Angular apps that actually make users smile (on purpose).</p>
+<p> I believe code isn't just about algorithms. it's about empowering people, automating the boring stuff, and building tools that make life a little less Ctrl+C/Ctrl+V.<p>
 
-I thrive on new challenges, especially the kind that make you say “uh-oh” before you figure out something awesome. Growth lives outside the comfort zone, and that's exactly where I like to deploy 🚀</p>
+<p> I thrive on new challenges, especially the kind that make you say “uh-oh” before you figure out something awesome. Growth lives outside the comfort zone, and that's exactly where I like to deploy 🚀</p>
 
 ###
 
