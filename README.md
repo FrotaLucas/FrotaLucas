@@ -2,8 +2,8 @@
 
 ###
 
-<p align="left">Creative. Spontaneous. Proactive.
-That’s me in three commits.
+<p align="left">Creative. Spontaneous. Proactive.</p>
+<p> That’s me in three commits. </p>
 
   I’m a Software Developer with 3+ years of experience battling legacy .NET dragons and building Angular apps that actually make users smile (on purpose). I believe code isn't just about algorithms. it's about empowering people, automating the boring stuff, and building tools that make life a little less Ctrl+C/Ctrl+V.
 
