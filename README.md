@@ -13,7 +13,7 @@
 <p align="left">✨ Creating bugs since 2020<br>📚 I'm diving deeper into .NET and Angular <br>🎯 Goals:  Develop technology that inspires people and drive positiv change in the society<br>🎲 Fun fact: I love skating on my free time</p>
 
 
-![image](https://github.com/user-attachments/assets/4cefeb15-2b84-47f6-8d36-56bbcd256227)
+[Reach me: ](https://www.linkedin.com/in/lucas-dias-frota-9020b2126/)
 
 ###
 
