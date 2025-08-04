@@ -2,7 +2,12 @@
 
 ###
 
-<p align="left">Creative | Spontaneous | Proactive | Problem-solving. Those are skill that better describe myself. <br>Despite graduating as a Chemical Engineer, I decided to pursue a career migration to the field of Software Development and reignite my passion for programming during my graduation. I firmly believe that possessing coding skills and understanding software functionality empowers professionals, enabling them to solve problems and liberate people from repetitive tasks. I am eager for new challenges, as I believe that professional growth occurs when we step out of our comfort zone.</p>
+<p align="left">Creative. Spontaneous. Proactive.
+That’s me in three commits.
+
+  I’m a Software Developer with 3+ years of experience battling legacy .NET dragons and building Angular apps that actually make users smile (on purpose). I believe code isn't just about algorithms. it's about empowering people, automating the boring stuff, and building tools that make life a little less Ctrl+C/Ctrl+V.
+
+I thrive on new challenges, especially the kind that make you say “uh-oh” before you figure out something awesome. Growth lives outside the comfort zone, and that's exactly where I like to deploy 🚀</p>
 
 ###
 
