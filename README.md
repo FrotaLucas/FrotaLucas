@@ -34,4 +34,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="100" alt="mysql logo"  />
 </div>
 
+<div>Reach me: [Linkedin](https://www.linkedin.com/in/lucas-dias-frota-9020b2126/)</div>
 ###
